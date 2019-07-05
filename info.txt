@@ -1,1 +1,3 @@
-this is a criti cal message that i'm going to amend in to the previous commit
+this is a critical message that i'm going to amend in to the previous commit
+
+Commit #2 during squash acticity
