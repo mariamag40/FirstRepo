@@ -25,3 +25,5 @@ Commit #12 during squash activity
 Commit #13 during squash activity
 
 Commit #14 started rebase dev2 commit1
+
+Commit #15 started rebase dev2 commit2
